@@ -50,9 +50,7 @@ Frontend Developer focused on building responsive and user-friendly web applicat
 
 ---
 
-## 🚀 Featured Projects
 
----
 
 ## 📫 Contact
 
