@@ -1,16 +1,64 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ebn-elmodeer/ebn-elmodeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./profile-circle.png" width="150" />
 
-Here are some ideas to get you started:
+<h1>Youssef Ahmed</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Frontend Developer | React.js & Next.js | TypeScript | Responsive Web Applications</h3>
+
+<p>
+Frontend Developer focused on building responsive and user-friendly web applications. I enjoy turning ideas into functional interfaces and continuously improving my development skills through hands-on projects.
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- Interested in building modern and responsive web applications.
+- Focused on improving my problem-solving skills.
+- I enjoy learning by building real-world projects.
+- Working towards becoming a stronger Software Developer.
+- Learning Software Development concepts and best practices.
+- Interested in both Frontend and Backend development.
+- Exploring Software Architecture, Design Patterns, OOP, and Data Structures & Algorithms.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind,git,github,vscode,npm,postman" />
+
+</div>
+
+**Software Development Concepts**
+
+`OOP` · `Data Structures & Algorithms` · `Clean Code` · `Design Patterns` · `Software Architecture`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ebn-elmodeer&show_icons=true&theme=tokyonight" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebn-elmodeer&layout=compact&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=ebn-elmodeer&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+---
+
+## 📫 Contact
+
+- **LinkedIn:** [Youssef Ahmed](https://www.linkedin.com/in/ebn-elmodeer/)
+- **Email:** ya0416322@gmail.com
