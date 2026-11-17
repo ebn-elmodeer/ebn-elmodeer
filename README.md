@@ -14,16 +14,12 @@ Frontend Developer focused on building responsive and user-friendly web applicat
 
 ---
 
-## 👨‍💻 About Me
+## ## 👨‍💻 About Me
 
-- Interested in building modern and responsive web applications.
-- Focused on improving my problem-solving skills.
-- I enjoy learning by building real-world projects.
-- Working towards becoming a stronger Software Developer.
-- Learning Software Development concepts and best practices.
-- Interested in both Frontend and Backend development.
-- Exploring Software Architecture, Design Patterns, OOP, and Data Structures & Algorithms.
-
+- Passionate about building modern and responsive web applications.
+- Improving my problem-solving skills through hands-on projects.
+- Exploring Software Development principles and best practices.
+- Interested in Frontend, Backend, and Software Architecture.
 ---
 
 ## 🛠️ Tech Stack
